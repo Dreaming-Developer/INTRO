@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=Portainer&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonAWS&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white"/></a>
 </div>
 
 <br/>
@@ -37,6 +38,10 @@ https://devdreamers.kr/
 <br/>
 <br/>
 
+### 📅 TimeLine
+- 2021.02.07 : 프로젝트 시작 (꿈꾸는개발자들)
+- 2021.04.09 : SPARK 7기 합격
+- 2021.07.17 : https://devdreamers.kr/ 배포 완료 및 베타테스트 실시
 
 ### 🔥 Crew (Since 2021.02)
 - 팀장 
