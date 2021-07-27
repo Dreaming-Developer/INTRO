@@ -40,7 +40,7 @@ https://devdreamers.kr/
 
 ### 📅 TimeLine
 - 2021.02.07 : 프로젝트 시작 (꿈꾸는개발자들)
-- 2021.04.09 : SPARK 7기 합격
+- 2021.04.09 : SPARK 7기 합격(팀 구성 및 개발 시작)
 - 2021.07.17 : https://devdreamers.kr/ 배포 완료 및 베타테스트 실시
 
 ### 🔥 Crew (Since 2021.02)
